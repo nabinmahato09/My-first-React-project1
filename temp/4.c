@@ -34,3 +34,5 @@ void main()
     printf("\n\nAverage waiting time:%.2f", avwt);
     printf("\nAverage turnaround time:%.2f", avtat);
 }
+
+gyuhg
